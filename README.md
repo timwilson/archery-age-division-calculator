@@ -3,7 +3,7 @@ Simple calculator for NFAA and USA Archery age divisions based on birthdate and 
 
 ## Instructions
 Please consult the `demo-form.html` file for a basic example of building a form that uses
-the date calculations in the `js/alculate-age-divisons.js` file. You'll need to make sure
+the date calculations in the `js/alculate-age-divisons.js` file. You'll need to make sure to
 assign the appropriate `id` fields so the script will be able to insert the proper values
 into the output table.
 
