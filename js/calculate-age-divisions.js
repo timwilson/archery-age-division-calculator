@@ -18,13 +18,13 @@ function nfaaDivision(age) {
 
 function usaDivision(age) {
 	if (age <= 12) { 
-		return "Bowman (under 12)";
+		return "Under 13 (Bowman)";
 	} else if (age <= 14) {
-		return "Cub (12&ndash;14)";
+		return "Under 15 (Cub)";
 	} else if (age <= 17) {
-		return "Cadet (15&ndash;17)";
+		return "Under 18 (Cadet)";
 	} else if (age <= 20) {
-		return "Junior (18&ndash;20)";
+		return "Under 21 (Junior)";
 	} else if (age <= 49) {
 		return "Senior (21&ndash;49)";
 	} else if (age <= 59) {
